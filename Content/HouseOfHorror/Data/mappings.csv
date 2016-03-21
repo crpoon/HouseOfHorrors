@@ -1,0 +1,10 @@
+0,Des,Key
+1,Move Forward,W
+2,Move Backward,S
+3,Move/Strafe Left,Q
+4,Move/Strafe Right,E
+5,Rotate the Player Counter-Clockwise,A
+6,Rotate the Player Clockwise,D
+7,Toggle Between Player Speeds,Space
+8,Interact (Pickup and Close/Open Doors),F
+9,Toggle Flashlight,R
